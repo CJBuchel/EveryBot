@@ -6,7 +6,7 @@ EveryBot program for FRC in CPP
 ### Setting up driverstation/programming laptop
 
 - Programming Tools
-	1. Install wpilibsuite. From this site -> `https://github.com/wpilibsuite/allwpilib/releases`, scroll down to the bottom and install wpilib from the operating system you need. E.g, Windows64 if you use windows, and it's 64 bit. More in depth instructions can be found here `https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html`
+	1. Install wpilibsuite. From this site -> https://github.com/wpilibsuite/allwpilib/releases, scroll down to the bottom and install wpilib from the operating system you need. E.g, Windows64 if you use windows, and it's 64 bit. More in depth instructions can be found here `https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html`
 
 	2. Once you have installed all the tools needed (this also includes VSCode the prefered text editor) you can download the code for the everybot. You can either clone it using git, or you can download it from github. If you plan on cloning, you will need to install git from `https://git-scm.com/downloads`
 
